@@ -13,3 +13,4 @@ out/
 data
 .DS_Store
 src/test/
+.*
