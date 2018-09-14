@@ -1,0 +1,15 @@
+logs
+target
+/.idea
+/.idea_modules
+/.classpath
+/.project
+/.settings
+/RUNNING_PID
+.sbtserver.lock
+.sbtserver
+*.iml
+out/
+data
+.DS_Store
+src/test/
